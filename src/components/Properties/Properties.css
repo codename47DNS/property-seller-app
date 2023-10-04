@@ -1,0 +1,16 @@
+.show-more {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 2em;
+    padding: 0.7em 1.6em;
+    background-color: #3531dc;
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #fff;
+    border: none;
+}
+
+.show-more span {
+    font-size: 1.2em;
+}

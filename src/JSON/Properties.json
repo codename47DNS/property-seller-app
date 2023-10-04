@@ -1,0 +1,547 @@
+[
+    {
+        "id": 1,
+        "street_address": "1825 Wisozk Way",
+        "address": "Wehner Route",
+        "city": "New York",
+        "image": "/img/buildings/1.jpg",
+        "price": 7255,
+        "type": "rent",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 726
+        }
+    },
+    {
+        "id": 2,
+        "street_address": "416 Nicolas Flats",
+        "address": "Esperanza Lake",
+        "city": "New York",
+        "image": "/img/buildings/4.jpg",
+        "price": 8455,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 936
+        }
+    },
+    {
+        "id": 3,
+        "street_address": "5549 Enrique Lodge",
+        "address": "Schaden Plaza",
+        "city": "New York",
+        "image": "/img/buildings/5.jpg",
+        "price": 6255,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 825
+        }
+    },
+    {
+        "id": 4,
+        "street_address": "8900 Brown Land",
+        "address": "Braden Underpass",
+        "city": "New York",
+        "image": "/img/buildings/6.jpg",
+        "price": 5625,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 741
+        }
+    },
+    {
+        "id": 5,
+        "street_address": "9100 Georgianna Extension",
+        "address": "Kristopher Streets",
+        "city": "New York",
+        "image": "/img/buildings/8.jpg",
+        "price": 7252,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 852
+        }
+    },
+    {
+        "id": 6,
+        "street_address": "356 Batz Drive Suite 061",
+        "address": "Schaefer Mall",
+        "city": "New York",
+        "image": "/img/buildings/9.jpg",
+        "price": 7045,
+        "type": "rent",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 964
+        }
+    },
+    {
+        "id": 7,
+        "street_address": "843 Briana Mount",
+        "address": "Erika Turnpike",
+        "city": "New York",
+        "image": "/img/buildings/11.jpg",
+        "price": 7205,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 940
+        }
+    },
+    {
+        "id": 8,
+        "street_address": "80905 Elyssa Grove",
+        "address": "Lindgren Lock",
+        "city": "New York",
+        "image": "/img/buildings/13.jpg",
+        "price": 7250,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 824
+        }
+    },
+    {
+        "id": 9,
+        "street_address": "47, HimaniGunj",
+        "address": "Atwal Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/2.jpg",
+        "price": 4255,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 945
+        }
+    },
+    {
+        "id": 10,
+        "street_address": "96, Payal Nagar",
+        "address": "Agrawal Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/3.jpg",
+        "price": 7555,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 657
+        }
+    },
+    {
+        "id": 11,
+        "street_address": "54, AarushiPur",
+        "address": "Sethi Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/7.jpg",
+        "price": 6055,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 645
+        }
+    },
+    {
+        "id": 12,
+        "street_address": "47, HimaniGunj",
+        "address": "Atwal Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/10.jpg",
+        "price": 8055,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 546
+        }
+    },
+    {
+        "id": 13,
+        "street_address": "72, Nancy Nagar",
+        "address": "Raval Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/14.jpg",
+        "price": 8000,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 945
+        }
+    },
+    {
+        "id": 14,
+        "street_address": "15, Hadapsar",
+        "address": "Rampersad Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/15.jpg",
+        "price": 4565,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 724
+        }
+    },
+    {
+        "id": 15,
+        "street_address": "54, Iqbal Heights, Goregaon",
+        "address": "Chandra Street",
+        "city": "Mumbai",
+        "image": "/img/buildings/16.jpg",
+        "price": 9455,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 940
+        }
+    },
+    {
+        "id": 16,
+        "street_address": "80815 Lamont Mountain",
+        "address": "Hahn Courts",
+        "city": "Paris",
+        "image": "/img/buildings/12.jpg",
+        "price": 8055,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 801
+        }
+    },
+    {
+        "id": 17,
+        "street_address": "96636 Garnett Divide",
+        "address": "Angie Ways",
+        "city": "Paris",
+        "image": "/img/buildings/16.jpg",
+        "price": 5055,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 754
+        }
+    },
+    {
+        "id": 18,
+        "street_address": "62628 Elinore Greens",
+        "address": "Greenfelder Ports",
+        "city": "Paris",
+        "image": "/img/buildings/15.jpg",
+        "price": 7015,
+        "type": "rent",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 945
+        }
+    },
+    {
+        "id": 19,
+        "street_address": "672 Issac Creek",
+        "address": "Brycen Turnpike",
+        "city": "Paris",
+        "image": "/img/buildings/11.jpg",
+        "price": 7205,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 940
+        }
+    },
+    {
+        "id": 20,
+        "street_address": "6329 Reynolds Freeway",
+        "address": "Corkery Shoals",
+        "city": "Paris",
+        "image": "/img/buildings/9.jpg",
+        "price": 7250,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 845
+        }
+    },
+    {
+        "id": 21,
+        "street_address": "21968 Cletus Center",
+        "address": "RVesta Spurs",
+        "city": "Paris",
+        "image": "/img/buildings/7.jpg",
+        "price": 7545,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 678
+        }
+    },
+    {
+        "id": 22,
+        "street_address": "21867 Kade Route",
+        "address": "Gerson Forest",
+        "city": "Paris",
+        "image": "/img/buildings/6.jpg",
+        "price": 5455,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 800
+        }
+    },
+    {
+        "id": 23,
+        "street_address": "968 Clinton Prairie",
+        "address": "Luettgen Meadow",
+        "city": "Paris",
+        "image": "/img/buildings/5.jpg",
+        "price": 9455,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 700
+        }
+    },
+    {
+        "id": 24,
+        "street_address": "4772 Feil Divide",
+        "address": "Mozelle Ramp",
+        "city": "Paris",
+        "image": "/img/buildings/2.jpg",
+        "price": 5675,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 567
+        }
+    },
+    {
+        "id": 25,
+        "street_address": "1149 Jasper Flat",
+        "address": "Hahn Motorway",
+        "city": "London",
+        "image": "/img/buildings/1.jpg",
+        "price": 5105,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 657
+        }
+    },
+    {
+        "id": 26,
+        "street_address": "416 Nicolas Flats",
+        "address": "Esperanza Lake",
+        "city": "London",
+        "image": "/img/buildings/2.jpg",
+        "price": 6105,
+        "type": "rent",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 945
+        }
+    },
+    {
+        "id": 27,
+        "street_address": "98933 Stracke Mountains",
+        "address": "Kulas Rapids",
+        "city": "London",
+        "image": "/img/buildings/3.jpg",
+        "price": 6105,
+        "type": "rent",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 784
+        }
+    },
+    {
+        "id": 28,
+        "street_address": "55105 Jerald Plaza",
+        "address": "Thompson Lodge",
+        "city": "London",
+        "image": "/img/buildings/5.jpg",
+        "price": 6425,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 674
+        }
+    },
+    {
+        "id": 29,
+        "street_address": "955 Cary Grove Suite 803",
+        "address": "Jeromy Junction",
+        "city": "London",
+        "image": "/img/buildings/7.jpg",
+        "price": 7005,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 452
+        }
+    },
+    {
+        "id": 30,
+        "street_address": "61023 Lynch Views",
+        "address": "Braeden Ramp",
+        "city": "London",
+        "image": "/img/buildings/9.jpg",
+        "price": 6405,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 832
+        }
+    },
+    {
+        "id": 31,
+        "street_address": "593 Declan Inlet Apt. 771",
+        "address": "Bartell Center",
+        "city": "London",
+        "image": "/img/buildings/11.jpg",
+        "price": 6415,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 532
+        }
+    },
+    {
+        "id": 32,
+        "street_address": "62969 Melyna Trafficway",
+        "address": "Stehr Point",
+        "city": "London",
+        "image": "/img/buildings/14.jpg",
+        "price": 8415,
+        "type": "sale",
+        "isPopular" : true,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 832
+        }
+    },
+    {
+        "id": 33,
+        "street_address": "16350 Kuvalis Branch",
+        "address": "Lonie Shoal",
+        "city": "London",
+        "image": "/img/buildings/15.jpg",
+        "price": 6451,
+        "type": "sale",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 744
+        }
+    },
+    {
+        "id": 34,
+        "street_address": "63754 Beverly Mountains",
+        "address": "Jacinto Junctions",
+        "city": "London",
+        "image": "/img/buildings/16.jpg",
+        "price": 4521,
+        "type": "rent",
+        "isPopular" : false,
+        "storage" : {
+            "rooms" : 3,
+            "beds" : 4,
+            "baths" : 1,
+            "floorspace": 732
+        }
+    }
+    
+]

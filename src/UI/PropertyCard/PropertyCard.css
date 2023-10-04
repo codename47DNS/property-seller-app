@@ -1,0 +1,86 @@
+.btns-on-image {
+    position: absolute;
+    top: 1em;
+    width: 92%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+}
+
+.for-btn {
+    border-radius: 2em;
+    padding: 0.5em 1.2em;
+    border: none;
+    color: #3531dc;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.custom-card {
+    border: 1px solid #fff;
+    background-color: #f2f6fc;
+    box-shadow: 3px 3px 10px rgba(131, 131, 131, 0.2);
+    border-radius: 1.3em;
+}
+
+.favorite-btn {
+    border: none;
+    background-color: #fff;
+    width: 2.5em;
+    height: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.read-more-btn {
+    color: #2a27be;
+    font-weight:bold;
+    text-transform: capitalize;
+    border-radius: 2em;
+    padding: 0.7em 1.6em;
+    border: 1px solid #2a27be;
+    font-size: 0.9em;
+}
+
+.popular {
+    position: absolute;
+    bottom: -1.7em;
+    z-index: 1;
+    left: -1em;
+}
+
+.popular button {
+    border: 1px solid #4441ff;
+    background-color: #4441ff;
+    color: white;
+    padding: 0.3em 1.6em;
+    border-radius: 0.3em;
+}
+
+.curve {
+    width: 0.6em;
+    height: 1.1em;
+    background-color: #2d2bb3;
+    z-index: -1;
+    bottom: -0.6em;
+    border-radius: 0 0 0 50%;
+    margin-top: -0.5em;
+}
+
+.fade {
+    animation: fade 0.5s 1 linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
